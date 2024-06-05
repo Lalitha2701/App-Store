@@ -1,0 +1,16 @@
+.tabs-container {
+  list-style-type: none;
+}
+.button {
+  font-family: 'Bree Serif';
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #7b8794;
+  text-decoration: underline;
+  font-size: 35px;
+  border: none;
+}
+.active-tab-btn{
+  color: #2563eb;
+}
